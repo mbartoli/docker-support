@@ -1,2 +1,2 @@
 # docker-support
-support files for docker
+support files for docker containers
